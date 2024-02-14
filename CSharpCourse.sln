@@ -13,21 +13,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{B46B7C15-7ABB-450B-9973-D0861D1F49E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{52A10FB8-D2D6-43FA-9EF7-FBAA6A6B32B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{52A10FB8-D2D6-43FA-9EF7-FBAA6A6B32B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{D2529DC9-4130-480F-B812-497B2CDFF6FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{D2529DC9-4130-480F-B812-497B2CDFF6FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{BBF7CFDE-5027-48BE-9821-2FC30C6BEE6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{BBF7CFDE-5027-48BE-9821-2FC30C6BEE6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{E3AB734F-1F42-49D6-A63E-A7E6609C4F3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{E3AB734F-1F42-49D6-A63E-A7E6609C4F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesIntro", "Interfaces\InterfacesIntro.csproj", "{F5B9F421-8704-49D8-8F69-98720D37CA32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesIntro", "Interfaces\InterfacesIntro.csproj", "{F5B9F421-8704-49D8-8F69-98720D37CA32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{5C643315-CC91-4B2D-9D91-A8DF868F11B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{5C643315-CC91-4B2D-9D91-A8DF868F11B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{B1D63D62-D07A-4BB4-9F44-AB88C9339C87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{B1D63D62-D07A-4BB4-9F44-AB88C9339C87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{8268525E-69FD-4240-968E-F63FD7A2FBEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{8268525E-69FD-4240-968E-F63FD7A2FBEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTypes", "ReferanceTypes\ReferanceTypes.csproj", "{305CF13C-550C-4B48-BD0C-CF78A4C442B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Construtors\Constructors.csproj", "{A2A41441-D595-42D3-9669-20EE985EBB0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{8268525E-69FD-4240-968E-F63FD7A2FBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8268525E-69FD-4240-968E-F63FD7A2FBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8268525E-69FD-4240-968E-F63FD7A2FBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305CF13C-550C-4B48-BD0C-CF78A4C442B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305CF13C-550C-4B48-BD0C-CF78A4C442B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305CF13C-550C-4B48-BD0C-CF78A4C442B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305CF13C-550C-4B48-BD0C-CF78A4C442B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A41441-D595-42D3-9669-20EE985EBB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A41441-D595-42D3-9669-20EE985EBB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A41441-D595-42D3-9669-20EE985EBB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A41441-D595-42D3-9669-20EE985EBB0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
